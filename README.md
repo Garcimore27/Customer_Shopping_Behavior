@@ -156,7 +156,7 @@ Comparer les segments clients
 
 Faciliter la prise de décision business
 
-![Example Power BI](Capture d'écran 2025-12-17 142455.png)
+![Example Power BI](powerbi.png)
 
 💡 Recommandations business
 
