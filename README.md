@@ -116,7 +116,7 @@ Connexion à une base PostgreSQL
 
 Chargement du DataFrame nettoyé pour analyse SQL
 
-🗄️ Analyse des données (SQL – PostgreSQL)
+🗄️ Analyse des données (SQL – MySQL)
 
 Les analyses suivantes ont été réalisées pour répondre aux questions métier :
 
@@ -156,7 +156,7 @@ Comparer les segments clients
 
 Faciliter la prise de décision business
 
-(Le fichier Power BI peut être ajouté au dépôt ou présenté via captures d’écran.)
+
 
 💡 Recommandations business
 
